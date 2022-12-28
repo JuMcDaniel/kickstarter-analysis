@@ -1,7 +1,14 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter date to uncover trends
-Purpose of today’s analysis is to determine the outcomes of other Kickstarter funds for Theater based on their goal amounts and launch dates.  
-Overall, it was determined by the analysis that most successful Kickstarter campaigns were started in May through June.  Where on the other hand failed campaigns were started in May and October.  May is the month where the most campaigns are launched in total. 
+
+## Technology for analysis
+
+The tools used for this analysis include Excel where pivot tables were used to break down the analysis into failed, successful and canceled kickstarter projects.  I then filtered the data by years and the parent category in order to be easier to see the data presented.  Graphs were then created based on the data within the pivot tables. Conditional statements were also made to color code the data for failed, successful and conceled kickstarter projects to improve ease of viewing in the raw data form.
+
+## Analysis
+
+Purpose of today’s analysis is to determine the outcomes of Kickstarter funds for the Theater group based on their goal amounts and launch dates. 
+
+Overall, it was determined by the analysis that most successful Kickstarter campaigns were started in May through June.  Where on the other hand failed campaigns were started in May and October.  The month of May had the highest rate for the initiation of kickstarter campaigns. 
 
 ![image](https://user-images.githubusercontent.com/103297084/177362272-9c603ba2-39b8-4590-8acc-c3c2337e571b.png)
 
